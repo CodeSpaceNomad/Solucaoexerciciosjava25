@@ -3,7 +3,9 @@ public class Funcoes {
     
     public int fa(int n) {
         int cont=0;
-
+        for (i=0; i < n; i++){
+             cont++
+        }
         return cont;
     }
 
@@ -53,3 +55,4 @@ public class Funcoes {
         return 0;
     }
 }
+
