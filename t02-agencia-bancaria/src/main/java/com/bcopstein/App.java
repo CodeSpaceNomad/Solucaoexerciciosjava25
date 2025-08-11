@@ -21,7 +21,6 @@ public class App {
                 System.out.println(e.getMessage());
                 System.out.println("Tente novamente!\n");
             }
-            sc.close();
         }
         System.out.println(cc.toString());
         System.out.println(outra.toString());
